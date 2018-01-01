@@ -7,7 +7,7 @@ import urllib.request as ul
 import re
 
 # Defines the webstring class, which fetches strings from the web based on specified inputs
-
+#----------------------------- WARNING NOT FULLY DEBUGGED
 # Define class web_string which stores Chinese string
 # Attributes: url, chapters (optional), contents
 
